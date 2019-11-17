@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\david\source\repos\laborationpointers\laborationpointers\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  laborationPointers.vcxproj -> C:\Users\David\source\repos\laborationPointers\Debug\laborationPointers.exe
